@@ -7,7 +7,7 @@ import asyncio
 from aiogram. types import InlineKeyboardMarkup, InlineKeyboardButton
 import prige_list
 
-api = '8153419157:AAGRfVj69HeWG-PoURP2cTtMNym96DNC6yc'
+api = '8..........C6yc'
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
